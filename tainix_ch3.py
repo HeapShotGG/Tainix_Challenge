@@ -15,6 +15,13 @@ result = 0
 
 # on parcours la liste jusqu'à atteindre la valeur de STOP.
 for i in range(STOP):
+    
     # On additione la valeur de i à result
     result = result + i
     print(result)
+   
+print(type(1.2))
+print(type(1))
+
+
+    
