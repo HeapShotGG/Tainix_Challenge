@@ -1,10 +1,10 @@
 #######################################################################################################
-#TAINIX CHALLENGE : https://tainix.fr/challenge/Utilisation-d-une-fonction
+# TAINIX CHALLENGE : https://tainix.fr/challenge/Utilisation-d-une-fonction
 # CHALLENGE LV STARTER - "UTILISATION D'UNE FONCTION"
 # ENONCE : 
 # Tu dois retourner une chaine de caractère contenant toutes les valeurs qui sont  des Multiple de 3.
 #######################################################################################################
-#@Author: HeapshotGG
+# @Author: HeapshotGG
 # Date : 30 Avril 2023
 
 # Value est un tableau qui contient une vingtaine de valeur entières comprise entre 10 et 100 
